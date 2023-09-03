@@ -34,4 +34,5 @@ public class IsPalindromeString {
 }  
 
 
-//by Arman Azarnik
+// by Arman Azarnik
+// armanazarnik@gmail.com
