@@ -3,14 +3,14 @@ Java CMD program for checking whether the entered string is palindrome or not.
 using Java version 1.8.0  
 
 Run the program using :  
-"javac CMD_Dice_Number_Frequency_Percentage.java"  
+"javac CMD_Is_Palindrome_String.java"  
 then   
-"java CMD_Dice_Number_Frequency_Percentage"   
+"java CMD_Is_Palindrome_String"   
 in Windows CMD   
 while CMD is in the CMD-is-palindrome-string-Java directory     
   
 You can see the program document using :    
-"javadoc CMD_Dice_Number_Frequency_Percentage.java"   
+"javadoc CMD_Is_Palindrome_String.java"   
 while CMD is in the CMD-is-palindrome-string-Java directory    
   
 Feel free to contact me at:  
